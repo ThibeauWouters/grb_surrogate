@@ -1,0 +1,1 @@
+Here, we create the training data and preprocess it so that we can create lightcurves from them. The data is then saved in the `lcdir` directory. You can use the functionalities here to create a new training grid
